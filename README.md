@@ -135,7 +135,7 @@ git push
 - When a new data release occurs and the relevancy (indicated by *'Obligation'*) of a column in the HF data structure is updated, make sure to place the data structure files with the updated column relevancy into separate folders before running the code.
 
 # License
-**Copyright © 2024 German Geoscience Research Center (GFZ)**
+**Copyright © 2025 Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences**
 
 This work is licensed under multiple licenses:
 
